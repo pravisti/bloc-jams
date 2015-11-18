@@ -1,5 +1,9 @@
 
-  .hero-content {
+   body.landing {
+     background-color: rgb(58,23,63);
+ }
+ 
+ .hero-content {
      position: relative;
      min-height: 600px;
      background-image: url(../assets/images/bloc_jams_bg.jpg);
@@ -25,6 +29,7 @@
  
  .selling-points {
      position: relative;
+
  }
  
  .point {
