@@ -30,6 +30,6 @@ var animatePoints = function() {
 
  };
 
-             animatePoints();
+       
 
 
