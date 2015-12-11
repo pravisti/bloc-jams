@@ -1,5 +1,4 @@
-
-   body.landing {
+ body.landing {
      background-color: rgb(58,23,63);
  }
  
@@ -29,8 +28,8 @@
  
  .selling-points {
      position: relative;
-
- }
+    
+}
  
  .point {
      position: relative;
@@ -48,3 +47,4 @@
      color: rgb(233,50,117);
      font-size: 5rem;
  }
+   
