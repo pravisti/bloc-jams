@@ -91,7 +91,7 @@ var onHover = function(event) {
 		
  };
 
- 
+
  var trackIndex = function(album, song) {
      return album.songs.indexOf(song);
  };
@@ -117,8 +117,6 @@ var playerBarPlayButton = '<span class="ion-play"></span>';
  var currentAlbum = null;
  var currentlyPlayingSongNumber = null;
  var currentSongFromAlbum = null;
-
-
  var $previousButton = $('.main-controls .previous');
  var $nextButton = $('.main-controls .next');
 
@@ -199,5 +197,8 @@ var previousSong = function() {
     $lastSongNumberCell.html(lastSongNumber);
     
 };
+
+
+
      
  
